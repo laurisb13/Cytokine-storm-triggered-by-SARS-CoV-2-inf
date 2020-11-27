@@ -1,5 +1,6 @@
 #Drug "Gene Set Enrichment Analysis" (GSEA)
-###We adapted Gene Set Enrichment Analysis (GSEA) to enable enrichment analyses of "drug classes" based in their mechanism of action (MOA), for which we used the GSEA method implemented in the R package fgsea (33)
+###We adapted Gene Set Enrichment Analysis (GSEA) to enable enrichment analyses of "drug classes" based in their mechanism of action (MOA)
+###We used the GSEA method implemented in the R package fgsea (33)
 ###This was done for all the three signatures, this is just a representative example
 
 ## Open libraries
